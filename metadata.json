@@ -1,0 +1,10 @@
+{
+  "name": "Tochkas AI",
+  "description": "Полноценный AI-портал Tochkas AI: умный чат, генерация изображений и видео, голосовой ассистент, YouTube-студия, Minecraft-помощник и Google Search Console SEO.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
